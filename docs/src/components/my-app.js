@@ -45,7 +45,7 @@ class MyApp extends PolymerElement {
       <div>{{output}}</div>
       <h2>Response:</h2>
       <pre>{{response}}</pre>
-      <first-component title="Testing Change!" ></first-component>
+      <first-component title="Testing data binding change!" ></first-component>
       <custom-greeting></custom-greeting>
 
     `;
